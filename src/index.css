@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg{
+    background-color: rgb(153 157 158);
+}
+body{
+    overflow-x: hidden;
+}
+
+#imagediv{
+    transition: transform ease 0.5s;
+}
